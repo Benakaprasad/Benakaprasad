@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there are 700 coding languages out there!
 -->
-## love to do
